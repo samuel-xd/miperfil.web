@@ -1,0 +1,79 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background-color: black;
+    color: #fff;
+}
+
+.portada{
+    text-align: center;
+    width: 100%;
+    height: 300px;
+}
+
+.gato{
+    width: 100%;
+    height: 200px;
+}
+
+.perro{
+    text-align: center;
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    bottom: 100px;
+    position: relative;
+}
+
+#camara{
+    background-color: black;
+    border-radius: 15px;
+    text-align: center;
+    width: 30px;
+    height: 30px;
+    color: honeydew;
+    bottom: 135px;
+    left: 385px;
+    position: relative;
+}
+
+#camara2{
+    background-color: black;
+    color: honeydew;
+    text-align: center;
+    width: 30px;
+    height: 30px;
+    border-radius: 15px;
+    bottom: 30px;
+    left: 225px;
+    position: relative;
+}
+
+.datos{
+    text-align: center;
+}
+
+.historia{
+    background-color: blue;
+    color: blanchedalmond;
+    border-radius: 10px;
+    width: 170px;
+}
+.perfil{
+    width: 170px;
+}
+
+.perfil, .puntos{
+    background-color: rgb(34, 33, 33);
+    color: blanchedalmond;
+    border-radius: 10px;
+}
+
+.detalles{
+    background-color: rgb(24, 24, 161);
+    color: blanchedalmond;
+    width: 100%;
+    border-radius: 6px;
+}
